@@ -4,7 +4,7 @@ title: About
 ---
 <div class="about">
     
-    {% include image.html url="/images/more.jpg" description="One of my favorite activities." %}
+    {% include image.html url="/images/more.jpeg" description="One of my favorite activities." %}
     
     <p>At present I am in the department of mathematics at University of Vermont, where I am completing a masters in applied math. I'm also a teaching assistant in the department, instructing Calculus 019 Sections and assisting with Real Analysis and Linear Algebra. </p> 
 
