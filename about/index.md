@@ -12,5 +12,5 @@ title: About
 {% include image.html url="/images/me.jpg" description="One of my favorite activities." %}
 
 
-<p markdown="1">Previously, I completed a core curriculum in Enginnering and a thesis on Freshwater Hydrology and Riparian Conservation Methodologies at Hampshire College. In a surprising turn of events, positions in applied computer science at the University of Massachusetts Department of Physics and The Rubenstein School of Natural Resources at UVM fueld my interests in thinking deeply about pure math.   
+<p markdown="1">Previously, I completed a core curriculum in Enginnering and a thesis on Freshwater Hydrology and Riparian Conservation Methodologies at Hampshire College. In a surprising turn of events, positions in applied computer science at the University of Massachusetts Department of Physics and The Rubenstein School of Natural Resources at UVM fueled my interests in thinking deeply about pure math.   
 </p>
