@@ -6,7 +6,7 @@ title: About
     
     {% include image.html url="/images/more.jpeg" description="Nearby Burlington Bay, Where I often Paddle and Rock climb." %}
     
-    <p>At present I am in the department of mathematics at the University of Vermont, where I am completing a masters in applied math. In addition to fundementals in analysis, I concentrate in employing numerical analysis as well as ordinary differential equations techniques to Complex Systems and Network Research. I also hold a teaching assistantship position in the department, instructing Calculus 019 Sections and assisting with Real Analysis and Linear Algebra. </p> 
+    <p>At present I am in the department of mathematics at the University of Vermont, where I am completing a masters in applied math. In addition to fundamentals in analysis, I concentrate in employing numerical analysis as well as ordinary differential equations techniques to Complex Systems and Network Research. I also hold a teaching assistantship position in the department, instructing Calculus 019 Sections and assisting with Real Analysis and Linear Algebra. </p> 
    
 
 {% include image.html url="/images/me.jpg" description="One of my favorite activities." %}
